@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on Arad Compiler<br>
+🔭 I’m currently working on [SisyphusAI](https://lichess.org/@/SisyphusAI)<br>
 
 
 ## 🌐 Socials:
